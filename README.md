@@ -23,3 +23,18 @@ Practice-Project6 .Write a program in Java to demonstrate exception handling
 Practice-Project7 .Write a program in Java to create, read, update, and delete operations on the files in Java.
 Practice-Project8 .Write a program in Java to demonstrate the uses of classes, objects, and the object-oriented pillars in Java
 Practice-Project9 .Write a program in Java to resolve the diamond problem using OOPs’ concepts
+
+<!--------------------------------------Phase-1 practice project2 programs--------------------------------------->
+III. Phase-1 Practice Project: Assisted Practice.
+	
+Practice-Project1 .Write a program in Java to right rotate an array by 5 steps
+Practice-Project2 Write a program in Java to find the fourth smallest element in an unsorted list
+Practice-Project3 .Write a program in Java to find the sum of n number of elements in the range of L and R where 0 <= L <= R <= n-
+Practice-Project4 .Write a program in Java to multiply two matrices
+Practice-Project5 .Write a program in Java to delete the first occurrence of a key in a singly linked list
+Practice-Project6 .Write a program in Java to insert a new element in a sorted circular linked list
+Practice-Project7 .Write a program in Java to traverse a doubly linked list in the forward and backward directions
+Practice-Project8 .Write a program in Java to insert and remove elements in a stack
+Practice-Project9 .Write a program in Java to insert and remove elements in a queue
+
+
