@@ -1,6 +1,6 @@
 # Java-Practice
-All phase-1practice project programs
-I. Phase-1 Practice Project: Assisted Practice
+# All phase-1practice project programs
+# I. Phase-1 Practice Project: Assisted Practice
 Practice-Project1 .Write a program in Java to implement implicit and explicit type casting
 Practice-Project2 .Write a program in Java to implement access modifiers.
 Practice-Project3 .Write a program in Java to verify implementations of methods and ways of calling a method 
@@ -12,7 +12,7 @@ Practice-Project8 .Write a program to create strings and display the conversion 
 Practice-Project9 .Write a program in Java to verify implementation of arrays
 Practice-Project10 .Write a program in Java to verify implementations of regular expressions
 <!--------------------------------------Phase-1 practice project2 programs--------------------------------------->
-II. Phase-1 Practice Project: Assisted Practice
+# II. Phase-1 Practice Project: Assisted Practice
 
 Practice-Project1 .Write a program in Java to create a thread by extending the ‘Thread’ class and by implementing the “Runnable” interface
 Practice-Project2 .Write a program in Java to demonstrate sleep() and wait()
@@ -25,7 +25,7 @@ Practice-Project8 .Write a program in Java to demonstrate the uses of classes, o
 Practice-Project9 .Write a program in Java to resolve the diamond problem using OOPs’ concepts
 
 <!--------------------------------------Phase-1 practice project2 programs--------------------------------------->
-III. Phase-1 Practice Project: Assisted Practice.
+# III. Phase-1 Practice Project: Assisted Practice.
 	
 Practice-Project1 .Write a program in Java to right rotate an array by 5 steps
 Practice-Project2 Write a program in Java to find the fourth smallest element in an unsorted list
