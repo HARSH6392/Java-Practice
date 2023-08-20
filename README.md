@@ -1,8 +1,8 @@
 # Java-Practice
 # All phase-1practice project programs
 # I. Phase-1 Practice Project: Assisted Practice
-Practice-Project1 .Write a program in Java to implement implicit and explicit type casting
-Practice-Project2 .Write a program in Java to implement access modifiers.
+-Practice-Project1 .Write a program in Java to implement implicit and explicit type casting
+-Practice-Project2 .Write a program in Java to implement access modifiers.
 Practice-Project3 .Write a program in Java to verify implementations of methods and ways of calling a method 
 Practice-Project4 .Write a program in Java to verify the implementations of constructor types
 Practice-Project5 .Write a program in Java to verify implementations of collections
