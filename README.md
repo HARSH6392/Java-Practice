@@ -38,4 +38,13 @@
 - Practice-Project9 .Write a program in Java to insert and remove elements in a queue
 
 <!--------------------------------------Phase-2 practice Assisted project 1 programs--------------------------------------->
-
+- Practice-Project1 .Write a program to demonstrate the differences between GET and POST using Servlet.
+- Practice-Project2 .Configure a servlet in Eclipse IDE.
+- Practice-Project3 .Write a program to demonstrate the concept of Generic Servlets.
+- Practice-Project4 .Write a program to demonstrate the concept of Servlet Classes and Interfaces.
+- Practice-Project5 .Write a program to demonstrate a Servlet Filter.
+- Practice-Project6 .Write a program to demonstrate a Session Tracking using Cookies.
+- Practice-Project7 .Write a program to demonstrate a Session Tracking using URL Rewrite.
+- Practice-Project8 .Write a program to demonstrate Session Tracking using Hidden Form Fields.
+- Practice-Project9 .Write a program to demonstrate Session Tracking using an HTTP Session.
+- Practice-Project10 .Write a program to demonstrate Session Login and Logout.	
